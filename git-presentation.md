@@ -24,10 +24,14 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## Git
 
+- Revert
+- Reset
 - Ramas
     - Checkout
 - Tags
 - [.gitignore](https://github.com/github/gitignore)
+
+[Cheat sheet](https://git-scm.com/cheat-sheet)
 
 ---
 
