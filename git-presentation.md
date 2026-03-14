@@ -16,7 +16,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Sistema de control de versiones (VCS)
 - Commit
     - Deltas
-    - Conventional commits
+    - [Conventional commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - Ammend
 - Stash / shelve
 
@@ -27,7 +27,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Ramas
     - Checkout
 - Tags
-- .gitignore
+- [.gitignore](https://github.com/github/gitignore)
 
 ---
 
@@ -39,7 +39,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
     - Fetch
     - Pull y Push
     - Merge 
-        - Conflictos: quedarte con tus cambios, con los suyos o mezclar a mano
+        - Conflictos: keep ours, keep theirs, resolve conflict manually
 
 ---
 
@@ -53,10 +53,19 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Documentación
     - README.md
     - LICENSE.md
+- Github Actions
 
 ---
 
 ## Flujos de trabajo
 
-- Feature branches (Mayoría de las empresas)
-- Todo a develop (Mentorías)
+- GitFlow
+![bg 45%](https://blog.jetbrains.com/wp-content/uploads/2023/05/git-flow.png)
+
+---
+
+## Flujos de trabajo
+
+- Trunk Based Development
+
+![](https://trunkbaseddevelopment.com/trunk1b.png)
