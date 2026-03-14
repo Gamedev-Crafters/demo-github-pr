@@ -16,7 +16,6 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Sistema de control de versiones (VCS)
 - Commit
     - Deltas
-    - [Conventional commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - Ammend
 - Stash / shelve
 
@@ -73,3 +72,13 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Trunk Based Development
 
 ![](https://trunkbaseddevelopment.com/trunk1b.png)
+
+---
+
+## Buenas prácticas
+
+- [Conventional commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+- Commits pequeños
+- Commits frecuentes
+- No pushear inmediatamente
+- Si se trabaja con ramas: integrar la rama principal en la nuestra recurrentemente
