@@ -16,7 +16,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Sistema de control de versiones (VCS)
 - Commit
     - Deltas
-- Ammend
+- Ammendjhdgjhdvgf
 - Stash / shelve
 
 ---
