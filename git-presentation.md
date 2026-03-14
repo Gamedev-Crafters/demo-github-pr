@@ -23,7 +23,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## Git
 
-- Revert
+- Revertt
 - Reset
 - Ramas
     - Checkout
